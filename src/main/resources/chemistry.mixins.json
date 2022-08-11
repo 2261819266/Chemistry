@@ -1,7 +1,7 @@
 {
   "required": true,
   "minVersion": "0.8",
-  "package": "net.yuuxinhao.chemistry.mixin",
+  "package": "net.yuxinhao.chemistry.mixin",
   "compatibilityLevel": "JAVA_17",
   "mixins": [
   ],

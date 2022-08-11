@@ -14,7 +14,7 @@
   },
 
   "license": "MIT",
-  "icon": "assets/modid/icon.png",
+  "icon": "assets/chemistry/icon.png",
 
   "environment": "*",
   "entrypoints": {
